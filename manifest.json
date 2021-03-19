@@ -1,0 +1,24 @@
+{
+    "name": "Gradient Gen",
+    "short_name": "Gradient",
+    "description": "pagina de prueba en vue",
+    "background_color": "#f59e24",
+    "theme_color": "#d5ee11",
+    "start_url": "./?umt_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-PE",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "./img/iconfinder_Grape_pequeño.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/iconfinder_Grape_2137827.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
